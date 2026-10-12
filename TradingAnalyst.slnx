@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TradingAnalyst.Api/TradingAnalyst.Api.csproj" />
+  <Project Path="TradingAnalyst.Business/TradingAnalyst.Business.csproj" />
+  <Project Path="TradingAnalyst.Data/TradingAnalyst.Data.csproj" />
+  <Project Path="TradingAnalyst.Tests/TradingAnalyst.Tests.csproj" />
+</Solution>
